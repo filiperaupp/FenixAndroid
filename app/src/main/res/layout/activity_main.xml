@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:text="Fênix"
         android:textAlignment="center"
-        android:paddingTop="5dp"
+        android:paddingTop="4dp"
         android:id="@+id/fenix"
         android:textSize="32dp"
         android:textStyle="bold"
