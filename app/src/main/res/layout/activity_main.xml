@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.filip.fenixadm.MainActivity"
+    android:background="#300">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fênix"
+        android:textAlignment="center"
+        android:paddingTop="5dp"
+        android:id="@+id/fenix"
+        android:textSize="32dp"
+        android:textStyle="bold"
+        android:textColor="#fff"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ADM de Condomínios"
+        android:textAlignment="center"
+        android:id="@+id/admCond"
+        android:textSize="22dp"
+        android:textColor="#fff"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:srcCompat="@drawable/fenix"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="68dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Telefones"
+        android:id="@+id/Telefones"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        android:textColor="#fff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3664-3334/3626-5203"
+        android:id="@+id/numbers"
+        android:textSize="22dp"
+        android:textColor="#fff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Endereço"
+        android:id="@+id/enderecoTitle"
+        android:textSize="26dp"
+        android:paddingTop="25dp"
+        android:textStyle="bold"
+        android:textColor="#fff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="R. Manoel Fortunado de Souza, 255"
+        android:id="@+id/endereco"
+        android:textSize="22dp"
+        android:textColor="#fff"/>
+
+
+</LinearLayout>
