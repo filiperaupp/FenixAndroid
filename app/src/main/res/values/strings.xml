@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">FenixAdm</string>
+    <string name="telefone">Telefone</string>
+    <string name="app_name" translatable="false">FenixAdm</string>
+    <string name="number1">(051) 3664-3334</string>
+    <string name="number2">(051) 3626-5203</string>
+    <string name="tituloFenix" translatable="false">Fênix</string>
+    <string name="endereco" translatable="false">R. Manuel Fortunato de Souza, 225</string>
+    <string name="enderecoTitulo">Endereço</string>
+    <string name="admCond">ADM de Condomínios</string>
 </resources>

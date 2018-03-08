@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="telefone">Telephone</string>
+    <string name="number1">(05551) 3664-3334</string>
+    <string name="number2">(05551) 3626-5203</string>
+    <string name="enderecoTitulo">Adress</string>
+    <string name="admCond">ADM of Condominiums</string>
+</resources>
